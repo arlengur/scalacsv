@@ -1,4 +1,5 @@
 /.vscode
+/.metals
 project/.metals
 project/.vscode
 project/target
